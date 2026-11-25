@@ -29,12 +29,47 @@
 
 ## Tools & technologies
 
+デザイン・写真とフロントエンドが、特に好きで得意な領域です。
+
+### Frontend & app development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,c,cs,vite,nodejs,git,github,figma&theme=light" alt="TypeScript, JavaScript, HTML, CSS, C, C sharp, Vite, Node.js, Git, GitHub and Figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxt,vite,flutter,dart,swift&theme=light" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue, Nuxt, Vite, Flutter, Dart and Swift" />
 </p>
 
-現在は、TypeScript / JavaScriptを使ったWeb表現やゲーム制作を中心に、<br>
-遊びながら理解できるインタラクションを探っています。
+React Native / SwiftUI / Unity / p5.js / Three.js
+
+### Languages, data & cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cs,py,nodejs,sqlite,firebase,supabase,cloudflare,aws,gcp,vercel&theme=light" alt="C, C sharp, Python, Node.js, SQLite, Firebase, Supabase, Cloudflare, AWS, Google Cloud and Vercel" />
+</p>
+
+SQL / GitHub Pages / OpenAI API / Gemini API / Machine Learning / Data Analysis
+
+### Design & creative
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps,pr,blender&theme=light" alt="Figma, Adobe Illustrator, Adobe Photoshop, Adobe Premiere Pro and Blender" />
+</p>
+
+UI・UX設計 / グラフィックデザイン / 写真撮影・編集 / 動画編集 / 3Dモデリング
+
+### Hardware & making
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=light" alt="Arduino and Raspberry Pi" />
+</p>
+
+micro:bit / ESP32 / 電子工作 / IoT / 3Dプリンター / CAD
+
+### Development environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,apple,windows,vscode,vim,npm,pnpm&theme=light" alt="Git, GitHub, GitHub Actions, Linux, macOS, Windows, VS Code, Vim, npm and pnpm" />
+</p>
+
+バックエンドとデータベースは現在勉強中です。
 
 ## Activity
 
