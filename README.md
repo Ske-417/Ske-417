@@ -4,7 +4,7 @@
 
 **つくって、観察して、またつくる。**
 
-ゲーム、Web、写真、自然観察。  
+ゲーム、Web、写真、自然観察。<br>
 興味の境界を越えながら、体験として残るものをつくっています。
 
 [![Profile views](https://komarev.com/ghpvc/?username=Ske-417&color=536b5e&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Ske-417)
@@ -33,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=ts,js,html,css,c,cs,vite,nodejs,git,github,figma&theme=light" alt="TypeScript, JavaScript, HTML, CSS, C, C sharp, Vite, Node.js, Git, GitHub and Figma" />
 </p>
 
-現在は、TypeScript / JavaScriptを使ったWeb表現やゲーム制作を中心に、  
+現在は、TypeScript / JavaScriptを使ったWeb表現やゲーム制作を中心に、<br>
 遊びながら理解できるインタラクションを探っています。
 
 ## Activity
