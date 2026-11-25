@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sōsuke Satō / Ske-417
+# Sosuke Sato / Ske-417
 
 **つくって、観察して、またつくる。**
 
