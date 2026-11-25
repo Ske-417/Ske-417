@@ -20,15 +20,6 @@
 - 写真、自然、生き物、数学、物語に関心があります
 - 小さくても、毎日ひとつ形にすることを大切にしています
 
-## Selected work
-
-| Project | Description |
-| :-- | :-- |
-| [底なしの、あるいは還る場所（仮）](https://github.com/Ske-417/unreturned) | 観察によって世界の見え方が変わる、2bitモノクロームの探索RPG |
-| [桁数機関](https://github.com/Ske-417/The-Order-of-Magnitude-Engine) | 数列の節目をたどる、数論モチーフのインクリメンタルゲーム |
-| [1 Day 1 Make](https://github.com/Ske-417/1D1M) | 一日ひとつの制作を記録するプロジェクト |
-| [Generative Art](https://github.com/Ske-417/GenerativeArt) | コードと数学から生まれる表現の実験 |
-
 ## Tools & technologies
 
 デザイン・写真とフロントエンドが、特に好きで得意な領域です。
